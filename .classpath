@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/Jars/ExtentReport/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/ExtentReport/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/ExtentReport/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/ExtentReport/extentreports-3.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/ExtentReport/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/ExtentReport/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/ExtentReport/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/ExtentReport/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/ExtentReport/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/ExtentReport/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/ExtentReport/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/ExtentReport/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/PDFBox/pdfbox-1.8.16.jar"/>
+	<classpathentry kind="lib" path="E:/Jars/PDFBox/pdfbox-app-1.8.16.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
